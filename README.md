@@ -1,6 +1,6 @@
 # Murilo Pedral
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Murilo Pedral Mota, tenho 20 anos e sou natural de Aracaju-SE. Atualmente, estou cursando Ciência da Computação na Universidade Tiradentes - UNIT. Tenho grande interesse em desenvolvimento de software, com foco em programação em Python e lógica de programação. Estou em constante aprendizado e busco evoluir através da criação de projetos práticos e do estudo contínuo de novas tecnologias. Utilizo este perfil para compartilhar meus projetos pessoais, documentando minha evolução na área de tecnologia e desenvolvimento de software.
 
