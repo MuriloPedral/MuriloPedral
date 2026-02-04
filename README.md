@@ -65,15 +65,3 @@ Me chamo Murilo Pedral Mota, tenho 20 anos e sou natural de Aracaju-SE. Atualmen
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuriloPedral&theme=tokyonight"/>
-
-
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPedral&layout=compact&theme=tokyonight" 
-  />
-</p>
