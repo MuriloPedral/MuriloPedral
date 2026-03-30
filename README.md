@@ -21,33 +21,15 @@ Gosto de explorar novas tecnologias e aplicar aprendizado de forma prática, cri
 
 ## Tecnologias e Ferramentas
 
-**Linguagens e Dados:**
-- Python 🐍
-- Pandas
-- PostgreSQL
-- APIs (básico)
-
-**IA e Machine Learning:**
-- Scikit-learn (básico)
-- Árvores de decisão
-- Conceitos de grafos
-
-**Visualização de Dados:**
-- Power BI
-
-**Ferramentas e Dev:**
-- Git & GitHub
-- HTML, CSS, JavaScript (básico)
-
-**Low/No Code (em aprendizado):**
-- n8n
-- Bubble
-- Lovable
-
-**Interesses futuros:**
-- AWS ☁️
-- Azure
-- MLOps
+<img align="center" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="center" alt="Pandas" title="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img align="center" alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="center" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="center" alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" alt="Tailwind" title="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 
 ---
 
