@@ -200,10 +200,8 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
 ---
 
 ## Contato
-<a href="https://www.linkedin.com/feed/" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-- LinkedIn: https://www.linkedin.com/feed/
+- LinkedIn: https://www.linkedin.com/in/murilo-pedral-579b69280/
 - Email: murilopedral10@gmail.com
 
 ---
