@@ -201,8 +201,20 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
 
 ## Contato
 
+
+<a href="[https://www.exemplo.com](https://www.linkedin.com/feed/)">
+    <img 
+        align="left" 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    />
+</a>
+
 - LinkedIn: (adicionar depois)
-- Email: (opcional)
+- Email: murilopedral10@gmail.com
 
 ---
 
