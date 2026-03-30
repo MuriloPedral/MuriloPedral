@@ -1,4 +1,3 @@
-Chat tem algumas imagens que mostram a tecnologia que eu utilizo invés de escrever, acho mais profissional, mas tenho que ir atrás delas para utilizar, eu vou te mandar meu readme e você vai ver que eu já tenho algumas do meu perfil anteriro, deixei lá no final do readme para você ter noção, ai você adapta a parte de tecnologias e deixa invés de separar as tecnologias por área, bota junto e troca por essas imagens
 # 👋 Olá, eu sou Murilo Pedral Mota
 
 🎓 Estudante de Ciência da Computação (UNIT)  
