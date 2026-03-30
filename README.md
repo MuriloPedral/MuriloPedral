@@ -109,11 +109,43 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="POSTEGRESQL"
+    title="POSTEGRESQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="POSTMAN"
+    title="POSTMAN" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PANDAS"
+    title="PANDAS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SCIKITLEARN"
+    title="SCIKITLEARN" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+<img 
+    align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 <img 
     align="left" 
@@ -121,9 +153,8 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
     align="left" 
     alt="CSS" 
