@@ -1,10 +1,110 @@
-# Murilo Pedral
+# 👋 Olá, eu sou Murilo Pedral Mota
 
-**`Desenvolvedor Backend`**
+🎓 Estudante de Ciência da Computação (UNIT)  
+💡 Em transição estratégica para a área de **Dados e Inteligência Artificial**
 
-Me chamo Murilo Pedral Mota, tenho 20 anos e sou natural de Aracaju-SE. Atualmente, estou cursando Ciência da Computação na Universidade Tiradentes - UNIT. Tenho grande interesse em desenvolvimento de software, com foco em programação em Python e lógica de programação. Estou em constante aprendizado e busco evoluir através da criação de projetos práticos e do estudo contínuo de novas tecnologias. Utilizo este perfil para compartilhar meus projetos pessoais, documentando minha evolução na área de tecnologia e desenvolvimento de software.
+---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
+
+Comecei minha jornada com Python e desenvolvimento de software, mas ao longo do caminho descobri uma área que realmente me chamou atenção: **Dados e Inteligência Artificial**.
+
+Hoje, meu foco está em aprender e construir projetos que envolvem:
+- Análise e tratamento de dados
+- Machine Learning
+- Sistemas inteligentes
+- Automação com ferramentas low/no-code
+
+Gosto de explorar novas tecnologias e aplicar aprendizado de forma prática, criando projetos que simulam problemas reais.
+
+---
+
+## Tecnologias e Ferramentas
+
+**Linguagens e Dados:**
+- Python 🐍
+- Pandas
+- PostgreSQL
+- APIs (básico)
+
+**IA e Machine Learning:**
+- Scikit-learn (básico)
+- Árvores de decisão
+- Conceitos de grafos
+
+**Visualização de Dados:**
+- Power BI
+
+**Ferramentas e Dev:**
+- Git & GitHub
+- HTML, CSS, JavaScript (básico)
+
+**Low/No Code (em aprendizado):**
+- n8n
+- Bubble
+- Lovable
+
+**Interesses futuros:**
+- AWS ☁️
+- Azure
+- MLOps
+
+---
+
+## Projetos em destaque
+
+### Análise e Visualização de Dados
+Projeto focado em:
+- Processamento e limpeza de dados
+- Transformação de planilhas
+- Criação de dashboards no Power BI
+
+---
+
+### Detecção de Transações Suspeitas
+Sistema que:
+- Gera dados fictícios de contas bancárias
+- Simula transações suspeitas
+- Aplica lógica para identificar padrões anômalos
+
+---
+
+### Agentes Inteligentes
+Simulação com múltiplos agentes:
+- 4 agentes com personalidades diferentes
+- Sistema de tomada de decisão
+- Distribuição de recursos baseada em comportamento
+
+---
+
+## Em construção
+
+Atualmente trabalhando em projetos envolvendo:
+
+- Integração de **Python + Power BI + Low-code**
+- Automações com **n8n**
+- Deploy utilizando **AWS**
+- Pipeline de Machine Learning com foco em **MLOps**
+
+---
+
+## Objetivo
+
+Me tornar um profissional capaz de construir soluções completas envolvendo:
+- Engenharia de dados
+- Machine Learning
+- Sistemas inteligentes aplicados a problemas reais
+
+---
+
+## Contato
+
+- LinkedIn: (adicionar depois)
+- Email: (opcional)
+
+---
+
+⭐ Sempre buscando evoluir através de projetos práticos e desafios reais
 
 <img 
     align="left" 
