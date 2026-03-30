@@ -3,7 +3,6 @@
 🎓 Estudante de Ciência da Computação (UNIT)  
 💡 Em transição estratégica para a área de **Dados e Inteligência Artificial**
 
-<br/>
 <img 
     align="left" 
     alt="Python" 
