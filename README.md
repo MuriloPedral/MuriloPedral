@@ -163,6 +163,7 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <br/>
+<br/>
 <img 
     align="left" 
     alt="HTML"
