@@ -138,7 +138,8 @@ Gosto de explorar novas tecnologias e aplicar aprendizado de forma prática, cri
 
 **Ferramentas e Dev:**
 - Git & GitHub
-- HTML, CSS, JavaScript (básico)
+- Conhecimento nível básico:
+    - HTML, CSS, JavaScript
 
 **Low/No Code (em aprendizado):**
 - n8n
