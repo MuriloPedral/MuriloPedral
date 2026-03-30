@@ -200,20 +200,10 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
 ---
 
 ## Contato
+<a href="https://www.linkedin.com/feed/" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-<a href="[https://www.exemplo.com](https://www.linkedin.com/feed/)">
-    <img 
-        align="left" 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-    />
-</a>
-
-- LinkedIn: (adicionar depois)
+- LinkedIn: https://www.linkedin.com/feed/
 - Email: murilopedral10@gmail.com
 
 ---
