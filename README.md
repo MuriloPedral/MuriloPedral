@@ -201,7 +201,7 @@ Me tornar um profissional capaz de construir soluções completas envolvendo:
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/murilo-pedral-579b69280/
+- LinkedIn: https://www.linkedin.com/in/motamurilo/
 - Email: murilopedral10@gmail.com
 
 ---
